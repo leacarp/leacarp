@@ -29,7 +29,7 @@ Hi, I'm Leandro Aguirre!
   <a href="mailto:leanaguirre2016@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/leandro-aguirre/)">
+  <a href="https://www.linkedin.com/in/leandro-aguirre/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/leaaguirre_/">
