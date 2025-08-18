@@ -46,6 +46,7 @@ Hi, I'm Leandro Aguirre!
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=vuejs" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
