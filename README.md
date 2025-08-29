@@ -13,8 +13,8 @@ Hi, I'm Leandro Aguirre!
 
 - 🔭 I’m currently focusing on my **learning journey**, taking courses on web development and cybersecurity.
 
-- 🌱 I’m currently learning **JavaScript** and working with **Vue 3, Quasar**, and **Node.js**.  
-  I’m also very interested in **React**, which is next on my list to learn.
+- 🌱 I’m currently learning **TypeScript** and working with **Vue 3, Quasar**, and **Node.js**.  
+  I’m also very interested in **React** and **Nest**, which is next on my list to learn.
 
 - 👯 I’m looking to collaborate on **front-end or full-stack projects** to keep improving my skills.
 
