@@ -13,7 +13,7 @@ Hi, I'm Leandro Aguirre!
 
 - 🔭 I’m currently focusing on my **learning journey**, taking courses on web development and cybersecurity.
 
-- 🌱 I’m currently learning **TypeScript** and working with **Vue 3 and **Nest.js**.  
+- 🌱 I’m currently learning **TypeScript** and working with **Vue3** and **Nest.js**.  
 
 - 👯 I’m looking to collaborate on **back-end or full-stack projects** to keep improving my skills.
 
