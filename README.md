@@ -7,16 +7,15 @@ Hi, I'm Leandro Aguirre!
 
 <p align="center">
 	<a href="https://github.com/leacarp">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Student;Future+Web+Developer;Cybersecurity+Enthusiast;Always+learning+and+growing&center=true&width=450&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Student;Future+Backend+Developer;Cybersecurity+Enthusiast;Always+learning+and+growing&center=true&width=450&height=45">
 	</a>
 </p>
 
 - 🔭 I’m currently focusing on my **learning journey**, taking courses on web development and cybersecurity.
 
-- 🌱 I’m currently learning **TypeScript** and working with **Vue 3, Quasar**, and **Node.js**.  
-  I’m also very interested in **React** and **Nest**, which is next on my list to learn.
+- 🌱 I’m currently learning **TypeScript** and working with **Vue 3 and **Nest.js**.  
 
-- 👯 I’m looking to collaborate on **front-end or full-stack projects** to keep improving my skills.
+- 👯 I’m looking to collaborate on **back-end or full-stack projects** to keep improving my skills.
 
 - 📫 How to reach me: **leanaguirre2016@gmail.com**
 
@@ -32,8 +31,8 @@ Hi, I'm Leandro Aguirre!
   <a href="https://www.linkedin.com/in/leandro-aguirre/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/leaaguirre_/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://leandro-aguirre-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
   
@@ -45,11 +44,13 @@ Hi, I'm Leandro Aguirre!
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
-    <img src="https://skillicons.dev/icons?i=vuejs" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=vuejs" />
+    <img src="https://skillicons.dev/icons?i=nuxtjs" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=postgresql" />
     <img src="https://skillicons.dev/icons?i=cs" />
