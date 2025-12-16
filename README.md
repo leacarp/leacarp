@@ -49,9 +49,12 @@ Hi, I'm Leandro Aguirre!
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=vuejs" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nestjs" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgresql" />
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=n8n" />
     <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=git" />
